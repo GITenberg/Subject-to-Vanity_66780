@@ -1,0 +1,37 @@
+_repo: Subject-to-Vanity_66780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Margaret
+    alias: Benson, Maggie
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '51451'
+    url: http://www.gutenberg.org/2009/agents/51451
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Benson
+description: Illustrated by the author.
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66780'
+language: en
+pgterms:marc904: https://archive.org/details/subjecttovanity00bens2
+pgterms:marc905: 20200126182928benson
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Dodd, Mead, & Company,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pets'
+- !lcc 'QL'
+- !lcsh 'Animals'
+- GITenberg
+tableOfContents: Apologia pro fele mea -- Clandestine correspondence -- In the bosom
+  of the family -- Chance acquaintance -- The deserted lover -- Jack -- A regular
+  flirt -- A faithful friend -- Kids of the goats -- Community life -- Finished Solomon.
+title: Subject to Vanity
+url: http://www.gutenberg.org/ebooks/66780
