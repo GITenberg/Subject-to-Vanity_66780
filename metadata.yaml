@@ -1,5 +1,8 @@
 _repo: Subject-to-Vanity_66780
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66780-h/images/cover.jpg
 creator:
   author:
     agent_name: Benson, Margaret
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51451
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Benson
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66780#Subject-to-Vanity
 gutenberg_issued: '2021-11-21'
 identifiers:
   gutenberg: '66780'
